@@ -10,7 +10,6 @@ SZParts
 * Screen On/Off option in SZParts
 * LCD Density Changer built into SZParts
 * Battery Percentace On/Off in SZParts
-* Port CPU Settings
 
 Wireless
 ---------
