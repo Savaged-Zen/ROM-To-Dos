@@ -1,0 +1,32 @@
+Savaged-Zen
+===========
+List of our To-Do's
+
+Rom Additions
+=============
+
+SZParts
+---------
+* Screen On/Off option in SZParts
+* LCD Density Changer built into SZParts
+* Battery Percentace On/Off in SZParts
+* Port CPU Settings
+
+Wireless
+---------
+* Wimax
+* Wifi tweaks
+
+Video
+------
+* Port 720p recoding and fix recording in general
+* utilize most avalible screen
+
+Framework
+----------
+* Transparent Notifications
+* Notification swipe away
+* New custom Launcher
+
+
+Updated last 3/14/2011 2:21pmEST
