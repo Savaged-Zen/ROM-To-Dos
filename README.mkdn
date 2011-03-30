@@ -8,13 +8,12 @@ Rom Additions
 SZParts
 ---------
 * Screen On/Off option in SZParts
-* LCD Density Changer built into SZParts
+* LCD Density Changer Remake
 * Battery Percentace On/Off in SZParts
 
 Wireless
 ---------
-* Wimax
-* Wifi tweaks
+
 
 Video
 ------
@@ -24,8 +23,12 @@ Video
 Framework
 ----------
 * Transparent Notifications
-* Notification swipe away
 * New custom Launcher
+* T-Mobile Themer
+
+Messaging
+----------
+* Custom Tweaks
 
 
-Updated last 3/14/2011 2:21pmEST
+Updated last 3/30/2011 9:22amEST
